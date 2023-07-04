@@ -1,3 +1,14 @@
+<img src='./src/assets/screnshot.png' alt='image'/>
+
+ <h1> youtube clone </h1>
+   
+#  https://dex-you-tube.netlify.app/
+
+
+
+
+
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
